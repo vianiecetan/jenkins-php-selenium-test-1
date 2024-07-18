@@ -1,5 +1,5 @@
 #!/usr/bin/env sh
 
 set -x
-docker kill my-apache-php-app
-docker rm my-apache-php-app
+docker kill c977a904a470c213c9bcbb3336aad605b0b87f988694797bd939293ba2fc2c31
+docker rm c977a904a470c213c9bcbb3336aad605b0b87f988694797bd939293ba2fc2c31
